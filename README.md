@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-This project was completed as part of the Data Analytics program. The aim was to examine how rainfall intensity, elevation, and drainage infrastructure influence urban flood risk using open-source global datasets. By conducting exploratory analysis, regression modeling, and clustering, the goal was to derive data-driven insights to support flood-resilient infrastructure planning and climate adaptation strategies.
+This larger aim of this project was to examine how rainfall intensity, elevation, and drainage infrastructure influence urban flood risk using open-source global datasets. By conducting exploratory analysis, regression modeling, and clustering, the goal was to derive data-driven insights to support flood-resilient infrastructure planning and climate adaptation strategies.
 
 ## Objectives
 
