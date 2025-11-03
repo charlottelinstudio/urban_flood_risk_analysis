@@ -8,10 +8,15 @@ This project was completed as part of the Data Analytics program. The aim was to
 
 The project sought to address several key analytical questions:
 🌧 Rainfall Patterns: Where are rainfall intensities highest across global urban areas?
+
 🏔 Elevation Influence: How does elevation relate to rainfall intensity and flood exposure?
+
 🚰 Drainage Systems: How do storm drain proximity and drainage density vary by land use?
+
 📊 Flood Risk Zoning: What distinct flood-risk zones can be identified using clustering?
+
 🧠 Resilience Insights: What infrastructure or planning actions can mitigate high-risk conditions?
+
 
 ## Data
 
