@@ -1,5 +1,13 @@
 # Global Urban Flood Risk Analysis
 
+## Quick Links
+[View Python Scripts](./10-2025%20Urban%20Flood%20Risk/03%20Python%20Script)
+
+[View Python Visualizations](./10-2025%20Urban%20Flood%20Risk/04%20Analysis/Visualizations)
+
+[View Tableau Storyboard on Tableau Public](https://public.tableau.com/views/6_7UrbanFloodRisk/UrbanFloodRiskStoryboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Project Overview
 
 This project was completed as part of the Data Analytics program. The aim was to examine how rainfall intensity, elevation, and drainage infrastructure influence urban flood risk using open-source global datasets. By conducting exploratory analysis, regression modeling, and clustering, the goal was to derive data-driven insights to support flood-resilient infrastructure planning and climate adaptation strategies.
