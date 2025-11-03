@@ -10,7 +10,10 @@
 
 ## Project Overview
 
-This larger aim of this project was to examine how rainfall intensity, elevation, and drainage infrastructure influence urban flood risk using open-source global datasets. By conducting exploratory analysis, regression modeling, and clustering, the goal was to derive data-driven insights to support flood-resilient infrastructure planning and climate adaptation strategies.
+This larger aim of this project was to examine how rainfall intensity, elevation, and drainage infrastructure influence urban flood risk using open-source global datasets. 
+Original Data Source: https://www.kaggle.com/datasets/pratyushpuri/urban-flood-risk-data-global-city-analysis-2025
+
+By conducting exploratory analysis, regression modeling, and clustering, the goal was to derive data-driven insights to support flood-resilient infrastructure planning and climate adaptation strategies.
 
 ## Objectives
 
